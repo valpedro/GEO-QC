@@ -1,2 +1,2 @@
 # GEO-QC
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valpedro/GEO-QC/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valpedro/GEO-QC/valpedro-qc)
